@@ -3,5 +3,5 @@
 row = ["   ", "|   |", "-----------"]
 def display_board
   puts row[0],row[1],row[0]
-  puts row[2]
+  print row[2]
 end
